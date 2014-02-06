@@ -214,6 +214,13 @@ PROJECTHONEYPOT:
   decoder: phpot_decoder
 TOREXITNODE:
   domain: torexit.dan.me.uk
-  type: ip
+  type: : 
   127.0.0.100: Tor Exit Node
-  
+DNSBLCHILE:
+  domain: dnsblchile.org
+  type: ip
+  127.0.0.3: fuente de spam verificada por dnsblchile.org
+  127.0.0.4: fuente de spam verificada por dnsblchile.org
+  127.0.0.5: fuente de scam verificada por dnsblchile.org
+  127.0.0.1: ver http://www.dnsblchile.org/dulCL.html
+  127.0.0.11: rango DUL confirmado por dnsblchile.org
