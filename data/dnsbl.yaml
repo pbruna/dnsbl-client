@@ -214,7 +214,7 @@ PROJECTHONEYPOT:
   decoder: phpot_decoder
 TOREXITNODE:
   domain: torexit.dan.me.uk
-  type: : ip
+  type: ip
   127.0.0.100: Tor Exit Node
 DNSBLCHILE:
   domain: dnsblchile.org
