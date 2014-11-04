@@ -224,3 +224,7 @@ DNSBLCHILE:
   127.0.0.5: fuente de scam verificada por dnsblchile.org
   127.0.0.1: ver http://www.dnsblchile.org/dulCL.html
   127.0.0.11: rango DUL confirmado por dnsblchile.org
+LASHBACK:
+  domain: ubl.unsubscore.com
+  type: ip
+
